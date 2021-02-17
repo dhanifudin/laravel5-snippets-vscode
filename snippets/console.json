@@ -28,7 +28,7 @@
         "description": "Log a comment to the console"
     },
     "Command-confirm.sublime-snippet": {
-        "prefix": "",
+        "prefix": "Console::confirm",
         "body": [
             "\\$this->confirm('${1:Do you wish to continue? [Y|N]}');$2"
         ],
